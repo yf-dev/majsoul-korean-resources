@@ -1,0 +1,11 @@
+{
+  "id": "koreanEn",
+  "version": "0.1.6",
+  "name": "한국어(글로벌 서버)",
+  "author": "Nesswit",
+  "description": "인터페이스를 한국어로 표시합니다.",
+  "preview": "preview.png",
+  "entry": "https://raw.githubusercontent.com/yf-dev/majsoul-korean-resources/main/majsoul-plus-korean.user.js",
+  "loadBeforeGame": true,
+  "applyServer": [2]
+}

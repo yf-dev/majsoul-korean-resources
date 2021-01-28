@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Majsoul Korean (EN Server)
 // @namespace    majsoul-plus-korean
-// @version      0.1.5
+// @version      0.1.6
 // @description  Apply majsoul-plus-korean using UserScript!
 // @author       YF-Dev
 // @license      MIT
@@ -14,22 +14,40 @@
 // @grant        unsafeWindow
 // @grant        GM_getResourceText
 // @run-at       document-start
-// @resource resourcepack https://raw.githubusercontent.com/yf-dev/majsoul-korean-resources/main/resources/korean/resourcepack.json
+// @resource     resourcepack https://raw.githubusercontent.com/yf-dev/majsoul-korean-resources/main/resources/korean/resourcepack.json
 // ==/UserScript==
 
 (function () {
     'use strict';
     const GAME_BASE_URL = 'https://mahjongsoul.game.yo-star.com/';
+    const MAJSOUL_PLUS_BASE_URL = 'https://localhost:8887/';
     const RES_BASE_URL = 'https://raw.githubusercontent.com/yf-dev/majsoul-korean-resources/main/resources/korean/';
-
+    const RESOURCEPACK_URL = 'https://raw.githubusercontent.com/yf-dev/majsoul-korean-resources/main/resources/korean/resourcepack.json';
     const version_re = /v\d+\.\d+\.\d+\.w\//i;
-    const resourcepack = JSON.parse(GM_getResourceText('resourcepack'));
 
+    let resourcepack = null;
 
-    replaceXhrOpen();
     replaceCodeScript();
 
+    if ('function' === typeof GM_getResourceText) {
+        resourcepack = JSON.parse(GM_getResourceText('resourcepack'));
+    } else {
+        var resourcepack_xhr = new XMLHttpRequest();
+        resourcepack_xhr.open("GET", RESOURCEPACK_URL, false);
+        resourcepack_xhr.send();
+        resourcepack = JSON.parse(resourcepack_xhr.response);
+    }
+
+    replaceXhrOpen();
+
     function replaceCodeScript() {
+        console.log(window.Laya);
+        if (window.Laya !== undefined && window.Laya.Loader !== undefined && window.Laya.Loader.prototype !== undefined) {
+            replaceLayaLoadImage();
+            replaceLayaLoadSound();
+            replaceLayaLoadTtf();
+            return;
+        }
         let observer = null;
         observer = new MutationObserver(function (mutations) {
             mutations.forEach(function (mutation) {
@@ -56,13 +74,17 @@
 
     function updateUrl(url) {
         const original_url = url;
+        // console.log('original url: ' + url);
         if (url.startsWith(GAME_BASE_URL)) {
             url = url.substring(GAME_BASE_URL.length);
+        }
+        if (url.startsWith(MAJSOUL_PLUS_BASE_URL)) {
+            url = url.substring(MAJSOUL_PLUS_BASE_URL.length);
         }
         url = url.replace(version_re, '');
         if (resourcepack.replace.includes(url)) {
             url = RES_BASE_URL + 'assets/' + url;
-            console.log(url);
+            console.log(' updated url: ' + url);
             return url;
         } else {
             return original_url;
@@ -96,6 +118,4 @@
             return original_function.call(this, updateUrl(url));
         }
     }
-
 })();
-

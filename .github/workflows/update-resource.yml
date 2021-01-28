@@ -42,7 +42,7 @@ jobs:
         run: rm -rf resource
 
       - name: Unzip resource file
-        run: unzip -qq resource.zip -d resource
+        run: unzip -qq resource.zip "korean/assets/*" "korean/resourcepack.json" -d resources
 
       - name: Remove resource file
         run: rm resource.zip

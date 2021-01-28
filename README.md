@@ -45,4 +45,4 @@
 
 ### License
 
-MIT
+MIT (resources 디렉터리의 내용은 )

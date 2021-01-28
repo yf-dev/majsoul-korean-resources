@@ -31,7 +31,7 @@ jobs:
         run: curl $(curl --silent https://api.github.com/repos/yf-dev/majsoul-plus-korean/releases/latest | jq -r .assets[0].browser_download_url) -L --output resource.zip
 
       - name: clear resource directory
-        run: rm -rf resource
+        run: rm -rf resources
 
       - name: Unzip resource file
         run: unzip -qq resource.zip "korean/assets/*" "korean/resourcepack.json" -d resources
@@ -44,6 +44,6 @@ jobs:
         with:
           author_name: Github Action
           author_email: github-action@nothing.local
-          message: "Update resource from ${{ steps.get-resource-version.outputs.value }}"
+          message: "Update resources"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

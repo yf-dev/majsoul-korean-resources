@@ -19,6 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: [authorize]
     steps:
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
       - name: Checkout repo
         uses: actions/checkout@v2
 
@@ -38,6 +43,9 @@ jobs:
 
       - name: Remove resource file
         run: rm resource.zip
+
+      - name: Convert extendRes
+        run: python convert-extend-res.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v4

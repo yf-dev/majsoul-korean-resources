@@ -1,0 +1,57 @@
+name: Update resource
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  authorize: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: octokit/request-action@v2.0.0
+        with:
+          route: GET /repos/:repository/collaborators/${{ github.actor }}
+          repository: ${{ github.repository }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  check-version:
+    runs-on: ubuntu-latest
+    needs: [authorize]
+    outputs:
+      cache-hit: ${{ steps.cache.outputs.cache-hit }}
+      cache-key: ${{ runner.os }}-${{ steps.get-version.outputs.value }}
+    steps:
+      - name: Get resource version
+        id: get-version
+        run: curl --silent https://api.github.com/repos/yf-dev/majsoul-plus-korean/releases/latest | jq -r .tag_name
+
+  update-resource:
+    runs-on: ubuntu-latest
+    needs: [check-version]
+    if: needs.check-version.outputs.cache-hit != 'true'
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Get resource file
+        id: get-version
+        run: curl $(curl --silent https://api.github.com/repos/yf-dev/majsoul-plus-korean/releases/latest | jq -r .assets[0].browser_download_url) --output resource.zip
+
+      - name: clear resource directory
+        run: rm -rf resource
+
+      - name: Unzip resource file
+        run: unzip -qq resource.zip -d resource
+
+      - name: Remove resource file
+        run: rm resource.zip
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Github Action
+          author_email: github-action@nothing.local
+          message: "Update resource from ${{ steps.get-version.outputs.value }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

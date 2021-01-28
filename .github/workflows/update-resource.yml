@@ -36,7 +36,7 @@ jobs:
 
       - name: Get resource file
         id: get-version
-        run: curl $(curl --silent https://api.github.com/repos/yf-dev/majsoul-plus-korean/releases/latest | jq -r .assets[0].browser_download_url) --output resource.zip
+        run: curl $(curl --silent https://api.github.com/repos/yf-dev/majsoul-plus-korean/releases/latest | jq -r .assets[0].browser_download_url) -L --output resource.zip
 
       - name: clear resource directory
         run: rm -rf resource

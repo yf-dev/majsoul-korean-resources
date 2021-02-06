@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "3.0.20210206030955",
+  "version": "3.0.20210206070847",
   "name": "한국어(글로벌 서버)",
   "author": "Nesswit",
   "description": "인터페이스를 한국어로 표시합니다.",
@@ -12,6 +12,7 @@
     "bitmapfont/en/en_hanyi.fnt",
     "bitmapfont/en/en_haolong.fnt",
     "bitmapfont/en/en_shuhun.fnt",
+    "docs/spot/erjietang/200004_en.bytes",
     "docs/xinshouyindao_en.json",
     "en/extendRes/emo/e200001/1.png",
     "en/extendRes/emo/e200001/4.png",

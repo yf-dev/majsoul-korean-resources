@@ -5,7 +5,7 @@
     <pages>
         <page id="0" file="en_haolong_0.png"/>
     </pages>
-    <chars count="1533">
+    <chars count="1536">
         <char id="10" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="13" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
@@ -219,6 +219,7 @@
         <char id="20197" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="20208" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="20214" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
+        <char id="20301" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="20302" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="20304" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="20316" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
@@ -549,6 +550,8 @@
         <char id="39636" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="39746" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="40201" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
+        <char id="40594" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
+        <char id="40607" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="40635" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="40664" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="40670" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>

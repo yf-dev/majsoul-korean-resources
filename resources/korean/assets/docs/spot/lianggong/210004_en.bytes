@@ -1,0 +1,174 @@
+﻿1:With Mid-Autumn Festival just around the corner, choosing the right gifts had become the biggest challenge besides "what shall I have for dinner". How about making some mooncakes?
+5:{character:player}Good afternoon, Anju Suzumiya!
+6:{character:Anju Suzumiya}Answer: Good afternoon, {var:player_nickname}. Correction: The name's KR-976, not Anju Suzumiya.
+7:{character:player}But that's written on your student ID.
+8:{character:Anju Suzumiya}Answer: The student ID is nothing but a forged certificate in order for KR-976 to perform human research activities. The information on it is not real.
+12:{character:player}If that's the case, I shall address thee by thy true name, KR-976!
+13:{character:Anju Suzumiya}Answer: Thanks for recognizing KR-976.
+15:player
+16:17:Anju Suzumiya
+18:{character:Anju Suzumiya}Answer: KR-976 is a social artificial intelligence designed for communication. In a way, I can be considered as a robot.
+19:{character:player}Don't you have to hide your identity as a robot?
+21:{character:Anju Suzumiya}Answer: After serious consideration, KR-976 believes it is necessary to use a cover.
+23:{character:player}Given that we are in the human world, it is safer to just call you Anju Suzumiya. You don't want others to find out your true identity, do you?
+24:{character:Anju Suzumiya}Answer: Thanks for your thoughtful consideration, {var:player_nickname}. KR-976 was too careless.
+25:{character:player}Let's use a different name then.
+28:{character:Anju Suzumiya}Answer: System has performed an analysis and decided {var:player_nickname} is allowed to refer to KR-976 as "Anju" in front of other humans. However, please use KR-976 when no others are around.
+29:She's so persistent. But... Anju sounds like a good name.
+271:{character:Anju Suzumiya}KR-976 would like to watch the mooncake making process. {var:player_nickname}, please approve the application.
+274:{character:player}You are right. That's why I want to try my luck at his place.
+275:{character:Anju Suzumiya}According to KR-976's observation, some people always choose to stay at home during weekends. KR-976 has defined them as "otaku". Could Usumi Ishihara be one of them?
+277:Usumi... he doesn't look like an otaku at all...
+282:{character:player}We won't know unless we see him in person. Let's go to his place. What do you think?
+283:{character:Anju Suzumiya}Agreed.
+284:Anju Suzumiya went to Usumi Ishihara's home but couldn't find him. Where could he be?
+287:Asaha High School was quite well-known in Ichiban City. It was located near the Mahjong Soul Shrine, next to the shopping street. There were a lot of things going on when we arrived at the entrance.
+288:Someone gave us a flyer the moment we got there. I looked at it and realized it was a festival event at Mahjong Soul Shrine.
+289:{character:player}Mooncake... tale?
+290:291:Asaha High School
+292:{character:???}Umhmm, Mahjong Soul Shrine is hosting our Mid-Autumn event, "Mooncake Tale"-nyaa!
+294:{character:Ichihime}I knew it was you, master-nyaa! Wanjirou said I was wrong, hmph-nyaa! Ichihime would never mistake someone else for master!
+296:{character:player}Thank goodness you are here. Asaha High School is so big. I'm looking for someone, but I don't even know where to start.
+297:???
+298:Ichihime
+299:{character:Wanjirou}Looking for someone? Well, we are busy giving out flyers. We don't have the time to help you.
+300:Wanjirou
+303:{character:player}Okay, but have you seen President Ishihara of Asaha High School? He looks like this.
+304:I opened Usumi Ishihara's photo on my phone and showed it to them. It was a formal ID photo. As to how I got this photo... that was another heart-tingling story.
+305:{character:Wanjirou}This guy... He entered the school at lunch time but never came out. I think he's still inside.
+306:{character:Ichihime}Nyaa? No way. Ichihime saw this guy at Mahjong Soul Shrine when I left home at lunch time.
+311:Anju Suzumiya and I looked at each other in confusion. I thought they would give us a clue, but things ended up more chaotic.
+312:{character:Anju Suzumiya}Hint: There are three possibilities. Usumi Ishihara could be in Asaha High School, or Mahjong Soul Shrine. Or, he may not be in Mahjong Soul Shrine at all.
+313:{character:player}How about... we go look for him in the school?
+314:After bidding farewell to them, we entered the school and bumped into Eliisa, who was leaving in a rush.
+315:{character:Eliisa}Safe! Hoho, what a perfect escape. Finally, I don't have to listen to the vice president's nagging. We are lucky, aren't we?
+316:{character:Shaun}Baa—
+317:Hearing she said "vice president", I had an idea and walked up to her.
+318:{character:player}Eliisa.
+319:Eliisa
+320:Shaun
+323:{character:Eliisa}Oh, you are looking for the president. I heard the vice president say he ran away to the shopping street.
+324:{character:Anju Suzumiya}Hint: New clue found. Usumi Ishihara could be on the shopping street.
+325:{character:player}Yeah, the vice president is extremely good at finding the president. He is usually right.
+326:{character:Anju Suzumiya}Question: Do we need to go to the shopping street and look for Usumi Ishihara?
+327:{character:player}Let's go.
+329:Shopping Street
+330:Anju and I said goodbye to Eliisa and came to the busy shopping street. Compared to Asaha High School, finding a person here seemed to be more difficult. I was lost in thought...
+331:{character:???}You seem to be in trouble, young soul. Which of these lovely girls did you lose? This quiet and well-behaved girl, or this energetic and bubbly girl?
+333:{character:Zan Tsukimi}Looks like something's really troubling you. We've been standing here for five minutes, and the girl next to you tried to talk to you for three times. You didn't hear her at all.
+334:{character:player}Ah, sorry. I was thinking about something, probably lost in my thoughts.
+335:Zan Tsukimi
+337:{character:player}Um, it's not really a problem. Anju and I are just looking for someone.
+339:Momo Hina cautiously asked me about Usumi Ishihara's characteristics and thought for a while.
+340:{character:Momo Hina}Momo didn't see him around the shopping street in person, but according to Mr. Rabbit, Momo thinks Eliisa could be right.
+342:Momo Hina
+343:Haruna Igarashi
+346:{character:Anju Suzumiya}Hint: Another three contradicting clues have appeared.
+347:{character:player}I just realized...
+350:Thinking about it, I took Anju Suzumiya away from the trio, and continued to walk further down the shopping street.
+351:When we were about to arrive at the convenience store that Ein was working at, I saw him rushing past us on a bicycle.
+352:{character:player}Ein—
+354:Anju Suzumiya thought for a brief second, then drew a stroke on the notebook.
+355:{character:Anju Suzumiya}Hint: New clue found.
+356:………………
+358:{character:???}Yo!
+362:Kirara Fujimoto
+366:{character:Anju Suzumiya}Based on KR-976's observation and understanding of humans, I just re-analyzed the clues provided by all 9 people. Although they sometimes contradicted one another, a pattern could be found. KR-976 believes 3 of them were correct, while the other 6 were giving false information.
+367:I looked down at the clues that Anju summarized.
+372:Mahjong Soul Shrine
+373:{character:player}I think Usumi Ishihara could be at Asaha High School.
+374:{character:Anju Suzumiya}Question: Shall we go to Asaha High School and look for Usumi Ishihara immediately?
+375:When Anju and I returned to Asaha High School, I received a text from Usumi Ishihara. Turned out he forgot to bring his phone in the morning. I realized it was too late to learn mooncake-making from him. Anju suddenly pulled my sleeve.
+376:{character:Anju Suzumiya}KR-976 just found some mooncake recipes on the internet. Maybe they can be of {var:player_nickname}'s help.
+377:{character:player}Based on Anju's clues, I think Usumi Ishihara should be at Mahjong Soul Shrine.
+379:When Anju and I arrived at Mahjong Soul Shrine, Usumi Ishihara was just walking out. I explained to him what I needed, and he gladly agreed to teach us how to make mooncakes.
+383:Grabbing my sleeve, Anju picked a mooncake with a small portrait on it and passed it to me.
+386:I looked at her anxious face and took the mooncake. It was still warm. I took a small bite... and my mouth was filled with overwhelming sweetness.
+387:{character:Anju Suzumiya}President Ishihara just said sugar could make people happy. KR-976 wants {var:player_nickname} to be happy, so I put a lot of sugar. Question: Is {var:player_nickname} feeling happy now?
+388:I looked up and gave the innocent-looking Usumi Ishihara a withering look as I swallowed the mooncake in my mouth.
+389:{character:player}I feel awesome!
+390:I saw a brilliant smile on Anju's face. She then picked out all other mooncakes with similar patterns and put them into a paper box carefully. She handed the box to me.
+391:{character:Anju Suzumiya}These are all made for {var:player_nickname}.
+394:{character:player}I think Usumi Ishihara could be at the shopping street.
+396:{character:player}Yeah.
+397:{character:Anju Suzumiya}Question: Shall we stay here and look for Usumi Ishihara?
+398:Unfortunately, we couldn't find him in the end. The day was getting dark and there was no time for me to make mooncakes on my own.
+400:{character:player}But wouldn't that be lack of effort?
+401:{character:Anju Suzumiya}KR-976 thinks it's nice enough of {var:player_nickname} to remember other's food preferences.
+406:{character:player}Happy Mid-Autumn Festival! And thank you, too.
+408:{character:Anju Suzumiya}Answer: You're welcome. Happy Mid-Autumn Festival, {var:player_nickname}!
+409:{character:Anju Suzumiya}Suggestion: Why not just buy some mooncakes to the recipient's likings? KR-976 doesn't quite know the protocol of sending gifts to humans, but if {var:player_nickname} gives KR-976 strawberry and cheese flavored mooncakes, KR-976 would be very glad even if they aren't made by you.
+410:{character:player}I get it, but is there such thing as strawberry and cheese flavored mooncake?
+413:{character:Anju Suzumiya}As a social artificial intelligence, KR-976 will provide assistance when the target of communication is in trouble. That is, if {var:player_nickname} actively asks for help.
+414:Anju said I needed to "actively ask for help", but she was already calculating the amount of ingredients required on her notebook.
+415:{character:player}Thank you, Anju.
+416:She seemed to be surprised and looked up at me. After a short moment of hesitation, she asked me quietly.
+418:{character:player}Why?
+419:{character:Anju Suzumiya}Because... KR-976 doesn't like mixed-nuts flavored mooncakes.
+420:I didn't expect a "social artificial intelligence" to pick on food. But it was just the filling of mooncakes, I didn't mind.
+421:{character:player}What type of filling would you like, Anju?
+422:{character:Anju Suzumiya}Question: Is strawberry and cheese an option?
+423:I didn't see a problem. After all, there were other strawberry and cheese flavored pastries. I nodded and saw a satisfied smile on Anju.
+425:I thought that was a great idea, and immediately took action. I decided to seek help from Usumi Ishihara. As the president of the student council and the pastry club, he could probably give me some guidance.
+426:Forget about the pastry club that could be disbanded any time, Usumi's pastry-making skill was quite commendable.
+427:But I never thought he could leave his phone unattended for the entire morning. After making the 7th unanswered call, I finally decided to go find him in person.
+428:The moment I opened my door, I saw Anju Suzumiya standing nearby. Somehow, I found this scene very familiar. It happened a lot recently, didn't it?
+429:I see. Hmm, in that case, I shall witness this very moment.
+430:Sorry, I'm too old for this.
+431:{character:player}But... KR-976 is too sci-fi as a name. Others may easily mistake it for a robot, don't you think so?
+432:{character:Anju Suzumiya}!!!
+433:I will never do anything to humiliate myself in front of the crowd. Never. I must find an excuse to turn down Anju Suzumiya's request.
+434:{character:player}Can I call you Anju in future?
+435:{character:Anju Suzumiya}Question: Is {var:player_nickname} going out?
+436:{character:player}Yeah, I'm going to find Usumi Ishihara and ask him how to make mooncakes.
+439:{character:Anju Suzumiya}Proposal: You can go to Asaha High School. There are school club activities during the weekend. As the president of the student council, it is possible that he is participating in club activities right now.
+440:{character:player}If you are interested, of course. But we need to find him first.
+441:{character:Anju Suzumiya}Question: Are you unable to contact this human named Usumi Ishihara?
+442:I gave Anju a thumbs-up. At least we have a new direction.
+443:I heard Ichihime's familiar voice. She jumped in front of us, waving the flyers in her hand.
+444:{character:player}It's okay, you don't have to. All I need is some information. Speaking of which, you have been here for a long time, haven't you?
+445:{character:Ichihime}I'm sure this person is at Mahjong Soul Shrine. Ichihime's had a lot of fish recently! I've got great memory-nyaa!
+447:{character:Eliisa}Ouch! M-Mr. Wolf, why are you here?! Are you also here for Eliisa?
+448:{character:player}No, I just wanted to ask you a question. Have you seen Usumi Ishihara anywhere?
+449:That sounded so wrong in many ways. I turned back and saw Zan Tsukimi standing behind, smiling. Momo Hina and Haruna Igarashi were following him.
+450:{character:Zan Tsukimi}Come on, tell me. What's your trouble?
+451:You are just rooting for the people you know! There's no logic!
+452:{character:Zan Tsukimi}Well, I think Haruna is just supporting the people she knows, so she may not be right. Hmm... other than that, Ichihime could also be wrong.
+453:I never thought finding Usumi Ishihara could be so difficult. I had a lot more respect for the vice president, Ren Kisaragi.
+454:But surely someone else could provide me with reliable information. For instance, Ein worked here every day. He knew the shopping street better than others and it would easier for him to trace Usumi Ishihara.
+455:I tried to talk to him over the crowd, but he only stopped for a brief moment, shouted something and left again in a hurry. Before I could figure it out, he rode on the bicycle and left again. What was that?
+456:I bought two ice-cream cones from the convenience store. Anju and I sat on the roadside bench, eating while analyzing the available clues. Someone patted my shoulder from behind.
+458:{character:player}Nice timing. Kirara, you are a student of Asaha High School, aren't you? Have you seen President Ishihara today?
+459:{character:Kirara Fujimoto}I was just checking the nail polish stock, didn't expect to meet you here! Haha!
+460:{character:Kirara Fujimoto}Ah, that fashionable President Ishihara, right? Hmm... I didn't see him in person. Have you asked anyone else?
+461:I told her what the others said. She thought for a while, then gave me a sly grin.
+462:{character:Kirara Fujimoto}What I can say is, only one person was right out of Ein and Haruna. As for why... just try to figure it out yourself, haha!
+463:Kirara Fujimoto's friends were looking for her, so she patted me on the shoulder, said "good luck" and left. I only felt more confused... Anju Suzumiya pulled my sleeve and showed me her notebook.
+467:Considering Anju's analysis, where should Usumi Ishihara be...
+468:{character:player}But there are a lot of cakes to be made. I'm afraid I can't finish on my own.
+469:{character:Anju Suzumiya}Question: If {var:player_nickname} wants to thank KR-976, can you change to a different filling?
+470:Strawberry and cheese flavored mooncakes, huh... Now I'm keen to know how they taste.
+471:I unexpectedly learned something new about Anju Suzumiya today—she hated mooncakes with mixed-nuts filling.
+472:{character:Anju Suzumiya}Question: Shall we go to Mahjong Soul Shrine to look for Usumi Ishihara?
+473:Anju said she only wanted to watch, but she was actually more dedicated to mooncake making than I was.
+474:2 hours later, we finally managed to make some mooncakes. They weren't delicate, but we put our hearts in making them. I felt relieved.
+475:{character:Anju Suzumiya}KR-976 made this for {var:player_nickname}.
+476:I looked at the mooncakes in the box. The portraits were probably hand-carved by Anju Suzumiya herself, as they didn't look like the patterns on our mold. Her crafting skills weren't great and they all looked different, but each of them was smiling.
+477:It was my idea to give out mooncakes with goodwill, but I ended up as the first person to receive this gift.
+478:What a nice Mid-Autumn Festival.
+479:{character:Anju Suzumiya}According to KR-976's observation on the mooncake shop, there are as many as 17 flavors. Other than strawberry and cheese, they are also crab with peeled prawns, egg yolk with meat floss, cheese and river snails, bursting durian... KR-976 believes these flavors are more than enough to satisfy the different preferences of {var:player_nickname}'s friends.
+480:Since when did the competition in mooncake industry become so fierce?
+481:With Anju Suzumiya's help, I picked mooncakes to everyone's liking. They were put in beautiful boxes as I wanted to send them out as gifts.
+482:Before I left, I gave the strawberry and cheese flavored mooncake to Anju Suzumiya.
+483:Anju took the mooncake and gave me a light but genuine smile.
+484:2 hours later
+485:Zan Tsukimi: Both Ichihime and Haruna maybe wrong.//nEin: Said nothing.//nKirara Fujimoto: Between Ein and Haruna, only one of them is right.
+486:I then saw Wanjirou and Mai Aihara behind Ichihime. They were also carrying flyers.
+487:{character:Mai Aihara}Yeah... We've been giving out flyers here after lunch.
+488:{character:Mai Aihara}I didn't see Mr. Ishihara at Mahjong Soul Shrine when I went there to pick up the flyers.
+490:{character:Mai Aihara}Maybe... he left?
+491:I took out Usumi Ishihara's photo and handed to them. I also told them what Ichihime, Wanjirou, Mai Aihara and Eliisa said.
+492:{character:Haruna Igarashi}If you ask Haruna, first of all, Momo must be right! Hehe! As for others... Haruna thinks Mai is also telling the truth. Because she's bad at lying.
+493:Ichihime: Usumi Ishihara is at Mahjong Soul Shrine.//nWanjirou: Usumi Ishihara is at Asaha High School.//nMai Aihara: Usumi Ishihara is not at Mahjong Soul Shrine.
+494:Eliisa: Usumi Ishihara is at the shopping street. //nMomo Hina: Eliisa may be right.//nHaruna Igarashi: Mai Aihara and Momo Hina are right.
+495:Mai Aihara

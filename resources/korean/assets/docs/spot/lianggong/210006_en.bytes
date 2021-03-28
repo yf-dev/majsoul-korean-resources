@@ -1,0 +1,202 @@
+﻿2:Waking up early on the weekend wasn't fun, but I still managed to arrive at the amusement park on time. Anju Suzumiya was already waiting there.
+3:{character:Anju Suzumiya}Greeting: Good morning, {var:player_nickname}.
+7:Anju Suzumiya
+8:player
+11:{character:Anju Suzumiya}System has decided that you are a liar.
+12:{character:player}Wait a sec, where does that come from?
+13:{character:Anju Suzumiya}Answer: {var:player_nickname} has promised to treat KR-976 to strawberry milk if KR-976 actively greets {var:player_nickname}.
+17:{character:Anju Suzumiya}*Staring—*
+18:{character:player}Morning, Anju.
+19:Since when did I promise that?
+22:{character:player}I was just kidding! I always take one bottle of strawberry milk with me. Been waiting for you to actively greet me!
+23:{character:Anju Suzumiya}System has automatically deleted the record about {var:player_nickname} being a liar.
+24:{character:player}So what am I to you now, Anju?
+25:{character:Anju Suzumiya}System has decided that {var:player_nickname} is a good person.
+26:Um, is that a compliment? That's a compliment, right? Somehow I feel a little bitter after being friend-zoned.
+27:{character:player}Did we ever have that agreement?
+28:{character:Anju Suzumiya}System has once again confirmed that {var:player_nickname} is a big liar.
+29:{character:player}Sorry, let's go get it right now. I can see a convenience store nearby...
+30:{character:Anju Suzumiya}Here you are.
+32:Anju Suzumiya handed me a bottle of strawberry milk. I could still feel the warmth of her hands on it. She had been holding it all along under her sleeve, so I didn't notice it.
+33:{character:player}What's this?
+34:{character:Anju Suzumiya}Answer: Because {var:player_nickname} is a liar, {var:player_nickname} is a liar and {var:player_nickname} is a liar, KR-976 had to prepare strawberry milk for herself.
+35:Do you really have to say it 3 times...? I feel like I'm being cursed.
+36:{character:player}Let's go have fun now. Anju, is there anything that you want to play in particular?
+37:{character:player}To make up for my mistake, please allow me to accompany you. Let's enjoy ourselves. Is there anything you want to play in particular?
+38:{character:Anju Suzumiya}Answer: KR-976 doesn't come to the amusement park often. Unable to locate any related knowledge in the database.
+39:Looks like I need to think of the itinerary next. What should we do first?
+42:Let's ride the merry-go-round. It looks so romantic!
+44:{character:Anju Suzumiya}Question: What is that?
+46:{character:Anju Suzumiya}Sounds interesting. KR-976 has accepted your proposal.
+49:{character:player}Aren't you scared at all?
+50:{character:Anju Suzumiya}Answer: KR-976 isn't afraid of heights. If {var:player_nickname} is scared, you can come to KR-976 for help.
+53:{character:player}Alright, sit back then. The ride is about to start.
+55:{character:player}It's a roller coaster ride, where we will dive and swirl from high above at high speed.
+57:After a loud and crisp ringing sound, our roller coaster started to climb up toward the highest point.
+58:Anju Suzumiya and I sat in a cart. I thought she would fear a game like this, but she was just carefully observing the structure of roller coaster and rails with a lot of curiosity.
+59:Anju held my hand as she spoke. Her palm felt dry and warm. She really seemed not scared at all.
+60:Anju was very excited throughout the ride. She even patted my arm in excitement when we reached the peak, telling me that I couldn't enjoy the ride with my eyes closed.
+61:But I was so nervous—!!!!!//nWhen can I get out—?????
+62:Finally, we got off the roller coaster, but Anju still looked like she wanted more of it. To stop her from riding it again, I quickly pulled her away and headed to the next attraction.
+63:A large building could be seen not far ahead. A giant, scary face was staring at us with its mouth open, which looked like the entrance.
+64:{character:Anju Suzumiya}Question: What's that thing over there?
+65:{character:player}Looks like a haunted house to me.
+66:2 minutes later
+67:{character:Anju Suzumiya}Question: Are there really ghosts in the haunted house?
+68:{character:player}Of course not. Even if there are, they are just the staff in disguise. Are you interested?
+69:Anju seemed to have hesitated for a split second, but I wasn't too sure.
+70:{character:Anju Suzumiya}Question: Is {var:player_nickname} scared of the haunted house?
+71:{character:player}It depends. A jump scare may get me, but once I know everything is fake, I won't be afraid anymore.
+72:{character:Anju Suzumiya}If the staff jump on you, {var:player_nickname} will definitely be very scared. We are not going.
+74:{character:player}Anju, you aren't scared of ghosts, are you?
+75:{character:Anju Suzumiya}KR-976 is a product of science and w-will never fear n-non-scientific existence.
+76:From what I know of her, she's lying.
+77:{character:player}Anju, if you want to take a look inside, I don't mind it. I'll be fine.
+78:{character:Anju Suzumiya}For the health of {var:player_nickname}, KR-976 r-refuses to do so.
+79:I never thought Anju Suzumiya would be scared of ghosts. If that's the case...
+80:Then I really want to take her into the haunted house!
+81:Actually, I'm also a little afraid. Let's forget about it...
+82:{character:player}How about we start from the merry-go-round?
+83:{character:Anju Suzumiya}Agreed. KR-976 has seen the facility named merry-go-round on TV. It is said to be a must-have for dating couples.
+84:{character:player}I heard that artificial intelligence could become very adventurous when facing an undiscovered field. Why am I not seeing this in you, Anju? Or, are you really...
+85:{character:Anju Suzumiya}O-objection. KR-976 is also keen to explore this place, but more concerned about {var:player_nickname}.
+86:{character:player}Don't worry about me then. I've been in this haunted house many times. I can even be your guide.
+87:{character:player}Couples, huh...
+88:Before I could finish, Anju Suzumiya pulled me away and ran to the merry-go-round.
+89:There seemed to be some special event going on. All I could see were couples in the long queue before the entrance. Anju Suzumiya and I couldn't help but move closer to each other while squeezing through the crowd...
+90:{character:Anju Suzumiya}Question: Which one does {var:player_nickname} want to sit?
+91:I looked at where she was pointing. Turned out she was referring to the seats on the merry-go-round.
+92:{character:player}Which one do you want, Anju?
+93:{character:Anju Suzumiya}Hmm... Answer: KR-976 wants to ride the pumpkin carriage with {var:player_nickname}. According to the storybooks, a pumpkin carriage is blessed with the magic of happiness before 12 o'clock midnight.
+94:I had never heard of this magic, but pumpkin carriage sounded good.
+96:The merry-go-round was a very easy ride. As we sat on it and enjoyed the breeze and music, I suddenly felt very relaxed and comfortable.
+97:{character:Anju Suzumiya}*Phew—Phew—*
+98:I heard Anju Suzumiya's soft breath and turned to her. She had already fallen asleep on my shoulder. I knew it was comfortable, but that just happened too fast.
+99:I took out my phone and quietly captured the moment. In the sun, her sleeping face looked like a cute little animal.
+100:Unfortunately, the dream ended too soon as the merry-go-round stopped after 10 minutes.
+103:{character:Bear mascot}Congratulations, you are the 9th couple who have ridden the pumpkin carriage before 12 o'clock midnight. Here are your limited teddy headbands—roar!
+104:Anju was still very sleepy, so I held her hand and walked out. When we reached the exit, we heard a loud "bang" sound and saw lots of colorful ribbons—a bear mascot ran over after firing the cracker in his hand.
+105:Anju was right about the magic, wasn't she?! She had a light smile on her face and reached over for the headbands. She then passed the one that looked like a bear gentleman to me.
+108:Bear mascot
+110:{character:Bear mascot}Once again, congratulations—roar!
+111:Anju pulled me away as the staff put their hands together. I looked at her side and noticed her cheeks were blushing a little. Considering the situation, she had already done well.
+112:Thinking of something else, I stopped her.
+113:{character:player}Anju, do you know about another place? It also carries the magic of happiness before the clock turns 12.
+115:{character:Anju Suzumiya}Question: What could that be?
+116:{character:player}The Ferris wheel.
+117:{character:Anju Suzumiya}Question: What's the difference between Ferris wheel and merry-go-round?
+118:{character:player}The direction of spinning, probably... But they have something in common.
+119:{character:Anju Suzumiya}Okay, KR-976 has understood. As long as I spin together with {var:player_nickname}, I will have the magic of happiness.
+120:Let's just stay together. The spinning part is not necessary.
+121:When the Ferris wheel reached its highest point, we could see the entire city from above. Anju looked just like an ordinary girl, pointing at landmark buildings with curiosity and making surprising sounds.
+124:She was able to have normal interactions, after all.
+126:Anju's characteristics made her unique. And I actually quite liked her that way.
+128:{character:???}Wel—come—
+129:I took Anju Suzumiya to the haunted house. Just when I tried to persuade her to enter it, I suddenly heard a hoarse male voice. I turned back and saw a staff in clown costume standing behind us.
+130:{character:Clown}Today, there is a special program for couples in our Wonder House. Don't miss out! Hehehehe—
+131:{character:player}We are not...
+132:Before I could finish, the clown quickly pushed us into the open doors of the haunted house...
+133:???
+134:The Clown
+136:Actually, I lied to Anju. I had never been to this haunted house before. The candle-shaped lamps on the wall glowed dimly in the dark, only lighting up a small area. The atmosphere was surely a fearful one.
+138:I didn't expect her to be so scared and felt a little guilty. But there was no turning back. I patted her gently on the back.
+139:{character:player}Anju, it seems we can only follow this path and go forward. Let's get moving.
+140:Anju Suzumiya didn't say anything. She just nodded firmly.
+142:It wasn't a long walk before we got to a turning point. I stopped for a moment and tried to mentally prepare myself for the upcoming scene, as most haunted houses would set up scary props or even actors here.
+144:{character:Clown}Congratulations! *Clapping*—You have successfully triggered the special couples event in Wonder House.
+145:I should be congratulated if I didn't trigger it. This was nothing but a trap that hung up whoever stepped on it first.
+148:{character:Anju Suzumiya}W-was {var:player_nickname} hung up because of KR-976? If KR-976 could be braver and walked with you, you wouldn't be hanging there alone.
+149:{character:player}Um, this is just part of the design. You don't have to blame yourself.
+150:{character:Anju Suzumiya}Objection.
+151:Still frightened but determined, Anju Suzumiya looked up and clenched her fist.
+152:{character:Anju Suzumiya}KR-976 will rescue {var:player_nickname}.
+153:As she disappeared into the darkness, I suddenly realized what Wonder House was planning in this event: to lock up the brave one in the first stage, then let the less brave one challenge all the horror quests. They sure had some... sick taste.
+154:Under the dim light, I could see the floor and walls were all covered by protective soft foam. Fortunately, even if Anju fell, she wouldn't be hurt. But she really needed to conquer the mental challenges.
+156:9 Mahjong tiles are placed in front of Alice, Cheshire Cat and Mad Hatter://nSou: 2, 3, 5//nMan: 3, 5, 7, 9//nPin: 2, 7
+157:The Queen of Hearts hid all 9 tiles, then picked one from them. She told Cheshire Cat the number, then told Mad Hatter the type of this tile.//nShe asked Cheshire Cat and Mad Hatter, "Could you find out what this tile is from the given information?"
+158:"I don't know," Cheshire Cat said.//nMad Hatter: "I know that you don't know this tile."//nChesire Cat: "Now I know what it is."//n"So do I now," Mad Hatter said.
+159:After hearing the conversation, Alice thought for a while and correctly deduced what this tile was.
+160:Question: What is this tile?
+163:Which number should I pick?
+166:7 Pin
+167:{character:player}2 Sou!
+168:Once again, we heard the clown's voice.
+169:{character:Clown}Congratulations to your teammate—she's just got double the difficulty! Hehehehe—
+170:As he spoke, I heard the roar of staff and Anju Suzumiya's screams not far away. Did "double the difficulty" mean more actors and pursuits?
+171:Sorry, Anju!
+172:I had to say this challenge was way too difficult for someone who had never been in a haunted house. It felt like a century before Anju finally returned. Panicking and terrified, she didn't even realize she had lost an antenna hairpin.
+173:{character:Anju Suzumiya}Sorry, {var:player_nickname}. The magic item... I didn't find it.
+174:I made a gesture of giving up to the camera, and the net that caught me slowly descended to the ground. I walked over to Anju Suzumiya and took her hand, then gently patted her on the head.
+175:{character:player}You have already done very well. It was my bad. I didn't solve the puzzle.
+180:{character:Anju Suzumiya}Thank you, {var:player_nickname}.
+181:{character:player}You earned it with your bravery and hard work. I didn't do anything.
+182:I only... accidentally increased the difficulty of your challenge.
+183:{character:Anju Suzumiya}That's not right... Without you, KR-976 would never have the courage to take the item alone. So... Thank you.
+187:{character:player}7 Pin!
+188:{character:Clown}Ouch! I didn't expect you to be able to solve it. Well, I am a gentleman who keeps his promise, so I will give her the blessing.
+189:After he said that, the lamps along the corridor suddenly lit up. Anju was standing at the corner, slightly shocked. I immediately shouted at her.
+190:{character:player}Anju, go take the item while there is light!
+191:She looked back at me, then nodded seriously and started running to the direction indicated. The next checkpoint wasn't far away. Without the obstacles, Anju soon came back with the item. It was a delicate, crystal-like crown.
+192:As she handed me the crown, the net and I slowly descended to the ground.
+194:{character:Clown}Congratulations, our brave princess defeated the evil dragon with the hero's assistance.
+195:{character:Anju Suzumiya}Question: KR-976 didn't see any evil dragon.
+197:{character:Clown}It feared your cooperation, so it left the crystal crown behind and fled! Hehehehe— 
+198:{character:Clown}Well, dear hero, what are you going to do with this crown?
+199:Looking at Anju Suzumiya, I gently put the crown on her head. As a first-time player, she was brave enough to look for the item alone and rescued me. That alone made me very grateful already.
+200:{character:Anju Suzumiya}Question: Is KR-976 really worthy of this crown?
+201:{character:player}Yeah. To me, Anju is the bravest princess.
+202:Anju raised her head and gave me a little smile. The crown looked crystal clear in the sun, just like her simple and kind mind.
+203:I took Anju Suzumiya to the haunted house. Looking at the wicked grimace on the doors, I felt like we should go somewhere else.
+204:Suddenly, I heard a hoarse male voice. A staff in clown costume was standing behind us.
+205:But I had never been to this haunted house either. The candle-shaped lamps on the wall glowed dimly in the dark, only lighting up a small area. The atmosphere was surely a fearful one.
+208:Wonder House
+211:{character:player}Woah—
+211:{character:Anju Suzumiya}Woah—
+212:We both screamed and started running forward while holding each other's hand. Behind us were some roaring faces that kept chasing after us. More obstacles kept coming out along the way, which made our escape even more difficult.
+214:But it wasn't the time for me to worry about Anju Suzumiya, as I realized that I had run into a dead end. I could hear some heavy footsteps patrolling not far away. Worried that I might alert more staff, I couldn't scream to Anju either.
+215:All of a sudden, a dark silhouette quickly approached me. Before I could scream, I heard a familiar voice.
+216:{character:???}{var:player_nickname}?
+217:{character:player}Anju!
+218:{character:Anju Suzumiya}Shh—I, I found the way out.
+219:She was still catching her breath, and her hand was also shaking slightly.
+221:{character:Anju Suzumiya}I must not leave {var:player_nickname} behind, because {var:player_nickname}... also looked very scared.
+222:{character:player}Thank you, Anju.
+224:I followed Anju through a dark corridor and saw sunlight at an exit.
+225:It felt like a century when we finally stood in the sun again.
+226:{character:Anju Suzumiya}KR-976 will work hard.
+227:{character:player}Huh?
+228:{character:Anju Suzumiya}So... next time when we are in a haunted house, I can protect {var:player_nickname}.
+229:She looked up and promised me very seriously, as if it was very important. I gently rubbed the top of her head.
+230:{character:player}That's great.
+231:232:234:Merry-go-round
+235:Anju Suzumiya did a great job as a volunteer in the table tennis competition. To encourage her to participate in these activities more often, I decided to award her by inviting her to the amusement park.
+236:{character:player}Is everything... okay?
+237:Of course, I came prepared!
+238:Anju Suzumiya seemed to realize that I was looking at her. She suddenly grabbed my hand and put it on her head. Did she want me to pat her?
+239:I gently rubbed the top of her head. It was softer than I thought.
+240:What's an amusement park without roller coasters? Let's play "Upside Down"!
+241:{character:player}How about we start with "Upside Down"?
+242:"Upside Down" was one of the most popular attractions of the amusement park. People loved it for its 60-meter vertical dive. Fortunately, we came early and the queue was fairly short. Soon, it was our turn to ride.
+243:Upside Down
+244:To my surprise, I didn't hit the ground nor did I feel any pain. Instead, we fell into something soft. As we held onto each other and struggled to get up under the dim light, we realized the entrance was connected to a large pool filled with foam blocks. The Wonder House was surely full of wonder.
+246:The speakers hidden in the wall kept playing weird sounds. Frightened, Anju and I couldn't help but cling to each other's arm.
+247:But we couldn't just stand still. We mustered all the remaining courage and slowly dragged our feet toward the darkness ahead, step after step...
+248:The first turn was only ten meters away from the entrance, but it felt like a marathon. Just when we tried to mentally prepare for the imminent unknown, I suddenly heard something squeak.
+249:Anju and I anxiously turned back. A silhouette was rapidly charging toward us from an open door and making some cracking sounds.
+250:As I ran past a corner, I suddenly realized Anju Suzumiya was lost. Staring at my empty hand, I remembered what the clown said. "A special event for couples"... Did he mean that couples would break up after leaving the haunted house?
+251:{character:player}Then why did you come back?
+252:She was clearly frightened, but still concerned about me...
+254:The speakers hidden in the walls kept playing weird sounds. Anju Suzumiya was so scared that she buried her head in my back, trembling. I felt like I had an electric motor on my back.
+255:I asked Anju to stay back and wait for me. However, just when I stepped around the corner, I was caught in a net and hung up in the air. The clown's voice could be heard over speakers everywhere.
+256:{character:Clown}In fairy tales, brave princesses always defeat the evil dragons to save the heroes. Now, dear princess, to save your hero, you will need to go to the next location alone and bring back the magic item. Hehehehe—
+257:I had never heard of such fairy tales, but whatever. Looking at Anju Suzumiya, I was seriously considering if I should just tell the staff that we give up. I just could not imagine Anju going to the unknown area and completing the task alone. That would be too much to ask.
+258:As Anju searched for the item to rescue me, I also tried to look for other clues. Somehow, I found a hidden block on the wall next to me. There was a piece of paper inside. On it was a logic puzzle.
+259:I flipped the paper over and saw a warning message written in red.
+260:Say your answer out loud, but remember to choose carefully.//nPick the right answer, and your teammate will be blessed by magic. He or she can easily arrive at the checkpoint and get the item.//nHowever, if you are wrong, your teammate will be cursed by devil and the difficulty of all the subsequent challenges will be doubled.
+261:On the wall next to us, a door opened from outside and sunlight removed all our fear. The clown stood at the door and invited us out.
+262:Anju and I both felt relieved as we stood in the sun again. The clown suddenly took out a crystal crown and got down on his knee, facing Anju.
+263:{character:Clown}My brave princess, you didn't manage to kill the evil dragon, but we were still impressed as you fought hard for your partner. This crown marks our recognition of your spirit.
+264:Anju took the crown and put it in my hand.
+265:She looked up and gave me a happy smile. There was dust on her face, but the smiling Anju was just too lovely.
+266:On the wall next to us, a door opened from outside and the sun shone into the haunted house. The clown stood at the door and invited us out.
+489:2 Sou

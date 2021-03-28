@@ -1,0 +1,84 @@
+﻿130:One day, I was working a part time job at Tenhoukaku. As the quadrennial International Expo of Gemstones was about to be held in Ichiban City, jewelry lovers from all over the world had gathered here and Miki Nikaidou asked me to help her out.
+131:All the major jewelry stores had been extremely busy recently, and the renowned Tenhoukaku was no exception.//nEven though I was only a shop attendant responsible for simple tasks such as greeting the customers, I still felt exhausted after a full day's work.
+132:Miki Nikaidou
+133:{character:Miki Nikaidou}Today, I will cook the dinner myself to reward you for your excellent performance recently. You-can-look-forward-to-it!
+134:Why did this sound so familiar? I suddenly had a feeling of impending doom!
+135:player
+136:{character:player}No thanks. You must be exhausted after a day's hard work. Why don't we dine out?
+137:Miki Nikaidou gave me a meaningful look. There was a sly grin on her face, as if she had already read my mind.
+138:{character:Miki Nikaidou}Well, the dinner is on you then, please.
+139:I laid my hand on the salary I just received in my pocket. In order to not eat Miki Nikaidou's cooking, this was a necessary sacrifice.
+140:Shopping street
+141:I came to the shopping street with Miki Nikaidou. Thanks to the expo, there were a lot more tourists than usual and two of us often got separated by other people. Unfortunately, I forgot to bring my phone. It would be a lot of trouble if we lost each other in the crowd.
+142:Hold her hand so we won't be separated
+143:Holding hand is a bit awkward. Let her grab your clothes instead
+144:{character:player}Let's hold hands so others cannot separate us.
+145:{character:Miki Nikaidou}Hehe, I have never walked the street while holding the hand of another person. {var:player_nickname}, are you trying to be my first?
+147:{character:Miki Nikaidou}Well, I don't mind if it's you. Please, be nice and gentle.
+148:{character:player}Why don't you grab my clothes, so we won't be separated by others.
+149:{character:Miki Nikaidou}I didn't expect {var:player_nickname} to be so serious. Why don't we just hold hands? Easy and simple, hehe!
+150:She then grabbed my hand and walked toward the restaurant nearby. It might be my illusion, but somehow I could feel her fingertips slightly trembling, as if she was anxious about something.
+151:But what could make the always calm Miki Nikaidou so anxious? I had no idea.
+152:153:I followed her across two streets and stopped at a simplistic yet elegant-looking ramen restaurant. She seemed to be a frequent guest and found us a table at the corner. After settling down, she took the menu from the table and handed it to me.
+154:{character:Miki Nikaidou}{var:player_nickname}, it's time to test our chemistry. Pick a ramen for me.
+155:I stared at the menu, trying to recall Nikaidou's preferences.
+156:Pick a ramen with light chicken broth
+157:Pick a ramen with thick soybean paste broth
+158:I ordered a chicken broth ramen with matsutake for Miki Nikaidou. Soon, it was served. A few golden drops of oil float on the surface of the crystal clear chicken broth, and the snow-white noodles look so appetizing.
+159:{character:Miki Nikaidou}Why did you choose the chicken broth?
+160:{character:player}You have been very tired these days. I heard chicken broth was very nutritious.
+161:{character:Miki Nikaidou}{var:player_nickname}'s care means more than the nutrients in the chicken broth to me!
+162:I ordered a ramen with soybean paste broth for Miki Nikaidou. Soon, it was served. A layer of special sauce made from carrots, potatoes and meat was placed on top of the golden hand-made noodles, bringing a thick and appetizing smell.
+163:{character:Miki Nikaidou}Why did you pick the soybean paste broth?
+164:{character:player}It was a guess. I learned your preferences, more or less, from the dinner you made for me last time.
+165:{character:Miki Nikaidou}Hehe, since you were paying so much attention, I shall taste the f-l-a-v-o-r of this ramen as if it's you, {var:player_nickname}!
+166:Miki Nikaidou always liked to tease me with jokes like this. She seemed to be a very sociable person. One would expect her to have a lot of experience in love and relationships, wouldn't she?
+167:Curious about Miki Nikaidou's relationship status
+168:Miki Nikaidou would probably poison me to death with food if I ask her this question...
+169:{character:Miki Nikaidou}What's that weird smile all of a sudden? Are you thinking of something evil?
+170:{character:player}Nothing evil at all. I was just a bit curious about something.
+171:{character:Miki Nikaidou}Oh, what is it?
+172:{character:player}You have been through many relationships, haven't you?
+173:{character:Miki Nikaidou}You suddenly look very pale... Are you thinking of something that would make me punish you? Hehe!
+174:{character:player}How did you...
+175:{character:Miki Nikaidou}Oopsie, I was only guessing. Well, you can tell Sister Nikaidou now. What were you thinking?
+176:{character:player}I was thinking... You have been through many relationships, haven't you?
+177:{character:Miki Nikaidou}Relationships... huh...
+178:Miki Nikaidou seemed to be thinking about something. She gazed around my face back and forth.
+179:{character:Miki Nikaidou}Yeah, I have had many!
+180:{character:player}M-many?!
+181:{character:Miki Nikaidou}About twelve or thirteen... Hmm... or fourteen? Fifteen? There were too many and I lost count.
+182:{character:player}Did you like every one of them?
+183:{character:Miki Nikaidou}Of course. I'm always serious and give everything I have when I am in a relationship. Each and every one of them!
+184:{character:player}Would you still contact them after you separated from each other?
+185:{character:Miki Nikaidou}Only kids do that. Grownups will never disturb each other's life again after a break-up. Anyway... why are you so curious about my relationship status? Are you trying to be my twenty-third partner?
+186:Why is that strange number growing again!?
+187:{character:player}Nope. From the number "twenty-third" you said, I have a feeling that our relationship won't last long.
+188:{character:Miki Nikaidou}Wow, do I look like such a flirty man-eater to you? I'm always very dedicated. Every relationship of mine lasted over a year, you know?
+189:Over a year? All twenty-two of them?
+190:Miki Nikaidou was always calm and confident, but she suddenly looked a bit agitated from my questioning look.
+191:{character:Miki Nikaidou}Well... each of them lasted over a year, but it was possible to have multiple relationships in the same year...
+192:{character:player}And you just said you were dedicated to every one of them...
+193:{character:Miki Nikaidou}Um... that's because...
+194:Looking at her shifty eyes, a bold guess suddenly occurred to me.
+195:{character:player}Nikaidou, you haven't had so many relationships, have you? Or... could it be that you have never had any at all?
+196:Miki Nikaidou was avoiding eye contact. She definitely wasn't telling the truth.
+197:To test her out, ask her if I can hug her.
+198:The atmosphere is already awkward. Better not keep pushing her.
+199:If my guess was correct and Miki Nikaidou was never in a relationship, she probably never had intimate contact with anyone. I thought for a while and walked in front of her, opening my arms.
+200:{character:player}Nikaidou, could you give me a hug?
+201:Miki Nikaidou squinted her eyes and looked at me with caution. She hesitated and stayed away.
+202:{character:Miki Nikaidou}Why asking for a hug all of a sudden?
+203:{character:player}Do you not like it?
+204:{character:Miki Nikaidou}I don't mind hugging, but that's something you only do to people you like. Don't you mind, {var:player_nickname}?
+205:{character:player}Not at all. Because I like you a lot, Nikaidou.
+206:Miki Nikaidou didn't reply. Instead, she stared at me for a moment, as if she was trying to identify whether I meant it or not.
+207:Suddenly, she moved over and gave me a gentle hug.
+208:{character:Miki Nikaidou}I like you too, {var:player_nickname}.
+210:I patted her gently on the back. I'm so fortunate to be the only one seeing this side of her.
+211:Miki Nikaidou always looked very dominant. I never expected her to have close to zero experience in relationship but I controlled myself from calling her out because I wanted to be the only one knowing this lovely side of her.
+212:{character:player}I was just joking. Nikaidou is so mature, there's no way that you have never had a relationship.
+213:{character:Miki Nikaidou}O... of course. If {var:player_nickname} has any love-related troubles, feel free to ask me! I will make sure I give-you-a-private-lesson!
+214:She was back to her normal, calm self and kept teasing me. But I was no longer worried that she might mock me again.
+215:{character:player}Please don't say that! That can be easily misunderstood!
+216:Her tone sounded teasing as usual but was slightly trembling. I never thought the calm, intelligent Miki Nikaidou could have such a lovely side. Like a butterfly that just left her cocoon, she was awkwardly trying to expand her wings.

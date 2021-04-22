@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "3.0.20210331091715",
+  "version": "3.0.20210422003959",
   "name": "한국어(글로벌 서버)",
   "author": "Nesswit",
   "description": "인터페이스를 한국어로 표시합니다.",
@@ -51,6 +51,7 @@
     "res/atlas/en/myres/mjdesktop.png",
     "res/atlas/en/myres/mjdesktop1.png",
     "res/atlas/en/myres/mjdesktop2.png",
+    "res/atlas/en/myres/mjdesktop3.png",
     "res/atlas/en/myres/necessary.atlas",
     "res/atlas/en/myres/necessary.png",
     "res/atlas/en/myres/room.atlas",

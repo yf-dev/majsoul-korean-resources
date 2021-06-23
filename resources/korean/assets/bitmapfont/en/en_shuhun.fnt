@@ -5,7 +5,7 @@
     <pages>
         <page id="0" file="en_shuhun_0.png"/>
     </pages>
-    <chars count="1543">
+    <chars count="1544">
         <char id="10" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="13" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
@@ -410,7 +410,6 @@
         <char id="27454" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="27490" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="27491" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
-        <char id="27492" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="27599" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="27611" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="27665" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
@@ -551,10 +550,12 @@
         <char id="38989" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="39000" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="39023" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
+        <char id="39080" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="39166" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="39318" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="39636" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="39746" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
+        <char id="40165" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="40201" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="40594" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>
         <char id="40607" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15"/>

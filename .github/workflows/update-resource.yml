@@ -1,5 +1,4 @@
 name: Update resource
-permissions: read-all|write-all
 on:
   workflow_dispatch:
   schedule:

@@ -5,19 +5,8 @@ on:
     - cron: '0 */3 * * *'
 
 jobs:
-  authorize: 
-    runs-on: ubuntu-latest
-    steps:
-      - uses: octokit/request-action@v2.1.0
-        with:
-          route: GET /repos/:repository/collaborators/${{ github.actor }}
-          repository: ${{ github.repository }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   update-resource:
     runs-on: ubuntu-latest
-    needs: [authorize]
     steps:
       - name: Set up Python 3.7
         uses: actions/setup-python@v2

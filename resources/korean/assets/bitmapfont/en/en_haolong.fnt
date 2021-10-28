@@ -7,6 +7,7 @@
     </pages>
     <chars count="1538">
         <char id="10" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
+        <char id="13" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="33" x="356" y="136" width="7" height="29" xoffset="2" yoffset="3" xadvance="11" page="0" chnl="15"/>
         <char id="34" x="1" y="1689" width="12" height="10" xoffset="2" yoffset="3" xadvance="15" page="0" chnl="15"/>
@@ -321,7 +322,6 @@
         <char id="23569" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="23601" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="23616" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
-        <char id="24029" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="24034" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="24037" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>
         <char id="24039" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="21" page="0" chnl="15"/>

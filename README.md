@@ -1,3 +1,12 @@
+2022년 7월 13일 이후 [작혼 EN 서버의 공식 한글화](https://twitter.com/MahjongSoul_KR/status/1546330081433653248?s=20&t=l3fLKBhAIZvzGjrDaX5ycw)가 적용됩니다.
+따라서 2022년 7월 13일부터는 본 프로젝트를 사용하지 않는 것을 권장합니다.
+
+2022년 7월 13일 이후에 본 프로젝트를 활성화했을 경우 정상적으로 공식 한글화가 적용되지 않을 수 있으므로
+[majsoul-plus-korean.user.js](https://github.com/yf-dev/majsoul-korean-resources/raw/main/majsoul-plus-korean.user.js)에서 한국어 리소스를 불러오는 코드를 주석 처리하였습니다.
+만약 강제로 본 프로젝트를 다시 적용하려면 [커밋](https://github.com/yf-dev/majsoul-korean-resources/commit/79dded9f6f79e3bbd9fb8cd3e664c4c05ec43294) 내용을 참고하여 다시 주석을 해제하여 사용해주세요.
+
+---
+
 # :rotating_light: 경고 :rotating_light:
 
 현재 [작혼 Plus 사용시 계정 밴 사례](https://github.com/MajsoulPlus/majsoul-plus/issues/127)가 보고되었습니다.  

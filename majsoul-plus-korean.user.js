@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Majsoul Korean (EN Server)
 // @namespace    majsoul-plus-korean
-// @version      0.1.6
+// @version      0.1.7
 // @description  Apply majsoul-plus-korean using UserScript!
 // @author       YF-Dev
 // @license      MIT
@@ -27,18 +27,18 @@
 
     let resourcepack = null;
 
-    replaceCodeScript();
+    // replaceCodeScript();
 
-    if ('function' === typeof GM_getResourceText) {
-        resourcepack = JSON.parse(GM_getResourceText('resourcepack'));
-    } else {
-        var resourcepack_xhr = new XMLHttpRequest();
-        resourcepack_xhr.open("GET", RESOURCEPACK_URL, false);
-        resourcepack_xhr.send();
-        resourcepack = JSON.parse(resourcepack_xhr.response);
-    }
+    // if ('function' === typeof GM_getResourceText) {
+    //     resourcepack = JSON.parse(GM_getResourceText('resourcepack'));
+    // } else {
+    //     var resourcepack_xhr = new XMLHttpRequest();
+    //     resourcepack_xhr.open("GET", RESOURCEPACK_URL, false);
+    //     resourcepack_xhr.send();
+    //     resourcepack = JSON.parse(resourcepack_xhr.response);
+    // }
 
-    replaceXhrOpen();
+    // replaceXhrOpen();
 
     function replaceCodeScript() {
         console.log(window.Laya);
